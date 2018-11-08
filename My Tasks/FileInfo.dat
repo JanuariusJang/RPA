@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="my first bot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/14/2018 09:02:38</Property>
+      <Property Name="RunDuration">00:00:54</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="killtask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/14/2018 09:01:43</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="close program.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/17/2018 14:53:47</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="looping.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/07/2018 12:07:40</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise 1A.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/13/2018 15:04:53</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise1A_step3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/13/2018 15:13:11</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise 1B.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/13/2018 15:37:12</Property>
+      <Property Name="RunDuration">00:01:50</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise1BSelf.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/13/2018 17:01:32</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Excel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/14/2018 10:58:56</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Extract Table.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/14/2018 13:19:57</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise3A.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/14/2018 15:13:49</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Minimise.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/15/2018 09:17:59</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise4A.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/15/2018 10:18:00</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise4D.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/15/2018 11:56:04</Property>
+      <Property Name="RunDuration">00:00:20</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Image Recognition.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/15/2018 14:26:45</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Encrypt.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/15/2018 14:44:30</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exercise5A.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/16/2018 10:02:17</Property>
+      <Property Name="RunDuration">00:01:53</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="pdfIntegration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/16/2018 11:18:26</Property>
+      <Property Name="RunDuration">00:00:27</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="email.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/16/2018 11:45:11</Property>
+      <Property Name="RunDuration">00:00:57</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="metabot1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/16/2018 14:03:30</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Self-Exercise1A.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/16/2018 18:37:57</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SQL.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/17/2018 10:07:48</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="exercise6c.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/17/2018 15:51:46</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_Use Case 32_1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/14/2018 15:30:17</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Test ScreenCapture.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/27/2018 11:37:03</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_Use Case 32.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/30/2018 16:21:12</Property>
+      <Property Name="RunDuration">00:03:52</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Reposition2Windows.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/30/2018 11:04:31</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_Use Case 32_Jang1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/17/2018 16:25:10</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="InnerTableBoeingWebsite.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/07/2018 11:56:54</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadCSV.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/07/2018 13:35:19</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="readCSV2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/12/2018 12:00:44</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_USE Case 32 KLX.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/18/2018 14:01:36</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Boeing Alt PNs.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/09/2018 15:44:37</Property>
+      <Property Name="RunDuration">00:00:36</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_USE Case 32 KLX2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/20/2018 17:00:09</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="CellIssue.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/11/2018 15:07:31</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_USE Case 32 KLX3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/07/2018 16:13:16</Property>
+      <Property Name="RunDuration">00:02:31</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Airbus Use Case old2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">09/26/2018 15:16:30</Property>
+      <Property Name="RunDuration">00:04:19</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Airbus Use Case.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2018 18:16:49</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SAP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/01/2018 15:55:29</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SharepointtestTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/05/2018 15:45:18</Property>
+      <Property Name="RunDuration">00:02:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="What is the time.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/10/2018 11:49:44</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ROB-Trivago.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2018 15:35:49</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="KLX_login_SubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/08/2018 17:57:55</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ED_USE Case 32 KLX4.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/08/2018 17:50:42</Property>
+      <Property Name="RunDuration">00:00:58</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

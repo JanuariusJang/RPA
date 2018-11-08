@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="CleanUpTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:15:33</Property>
+      <Property Name="RunDuration">00:04:36</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AmenitiesExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:10:35</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="BondsDryStoreExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:10:40</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="EquipmentExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:10:44</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="GPPrintingExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:10:56</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ServicesExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:06:07</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UniformsLinenExtractionSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:06:08</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RetrieveFormsSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:15:33</Property>
+      <Property Name="RunDuration">00:05:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ProcessFormsSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:06:50</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="StopTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:08:48</Property>
+      <Property Name="RunDuration">00:00:37</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UpdateSAPAndEDMSSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:08:10</Property>
+      <Property Name="RunDuration">00:01:20</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="TBAED036_01.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:15:33</Property>
+      <Property Name="RunDuration">00:05:09</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SendEmailSubTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2018 17:08:11</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
